@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602648192 source:f:\amplifymobility\priority_queue\main.cpp
+	"Task.h"
+
+1602648178 f:\amplifymobility\priority_queue\task.h
+	<iostream>
+	<queue>
+
+1602645301 source:f:\amplifymobility\priority_queue\print_remove.cpp
+	"Task.h"
+
