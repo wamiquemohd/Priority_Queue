@@ -1,9 +1,5 @@
-1.I have completed the given assignment as given by Pulkit.
+completed.
 
-2.Tried covering all the edge cases.
-
-3.Files : main.c
+Files : main.c
 	  Task.h
 
-Regards,
-Wamique
